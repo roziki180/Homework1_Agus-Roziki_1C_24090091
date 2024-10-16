@@ -4,7 +4,7 @@
 # STUDI KASUS
 Pemerintah sedang melaksanakan program bantuan langsung tunai BLT untuk warga yang memenuhi syarta tertentu. Untuk memudahkan proses pendaftaran dan seleksi, mereka mengembangkan sebuah sistem sederhana yang dapat menentukan kelayakan seseorang untuk menerima bantuan langsung tunai BLT berdasarkan  beberapah syarat.
 
-# prgram harus memenuhi input berupa :
+# program harus memenuhi input berupa :
 1.Nama
 2.Nik
 3.No handpone
